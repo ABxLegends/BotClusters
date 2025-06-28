@@ -8,8 +8,7 @@
 
                      },
                      "run":. "bot.py"
-
-
+                
                      "bot2": {
                              "source": "repo_link"
                              "branch": "master"
