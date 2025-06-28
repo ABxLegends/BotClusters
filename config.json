@@ -1,19 +1,20 @@
 { 
-           "bot1":  {
+         "bot1":  {
                    
-                     "source" : "repo_link"
-                     "branch":  "master"
-                     "env":  {
+                 "source" : "repo_link"
+                 "branch":  "master"
+                 "env":  {
                               "TOKEN": ""
 
                      },
                      "run": "bot.py"
                 
                      "bot2": {
-                             "source": "repo_link"
-                             "branch": "master"
-                              "env":  {
+
+                          "source": "repo_link"
+                          "branch": "master"
+                          "env":  {
                                       "TOKEN":  ""
                                },
-                               "run":  "run.sh"
+                           "run":  "run.sh"
                         },
