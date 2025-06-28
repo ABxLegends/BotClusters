@@ -7,7 +7,7 @@
                               "TOKEN": ""
 
                      },
-                     "run":. "bot.py"
+                     "run": "bot.py"
                 
                      "bot2": {
                              "source": "repo_link"
